@@ -1,0 +1,27 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DominionWarehouseAPI
+build_property.RootNamespace = DominionWarehouseAPI
+build_property.ProjectDir = D:\Angela Project\EShopBackend\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Angela Project\EShopBackend
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Angela Project/EShopBackend/Views/PDFGenerator/OrderPDF.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUERGR2VuZXJhdG9yXE9yZGVyUERGLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Angela Project/EShopBackend/Views/PDFGenerator/ReceivedGoodsPDF.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUERGR2VuZXJhdG9yXFJlY2VpdmVkR29vZHNQREYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

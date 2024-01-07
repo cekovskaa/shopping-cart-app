@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "SLR1ED6AqhuTA0xhit+V5B/UC/3j/2xy7yJ8Nh/ywkg=",
+  "Source": "EShopBackend",
+  "BasePath": "_content/EShopBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EShopBackend\\wwwroot",
+      "Source": "EShopBackend",
+      "ContentRoot": "C:\\Users\\angce\\Desktop\\Angela Project\\EShopBackend\\wwwroot\\",
+      "BasePath": "_content/EShopBackend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
